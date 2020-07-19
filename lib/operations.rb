@@ -1,5 +1,5 @@
 def unsafe?(95)
-  if unsafe  > 
+  if unsafe  > 60 ? 
 
 end
 
